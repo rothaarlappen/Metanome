@@ -21,7 +21,7 @@ package de.metanome.algorithm_integration.configuration;
  * @author Jakob Zwiener
  */
 public enum DbSystem {
-  DB2, MySQL, PostgreSQL, HANA, Oracle;
+  DB2, MySQL, PostgreSQL, HANA, Oracle, MsSQL;
 
   /**
    * Returns a list of string representation of all options of the enum.
